@@ -30,3 +30,4 @@ for i = 1 : num_pgms
     % 第四步，将 pgm 以 jpg_file 作为文件名，保存tif格式.
     imwrite(pgm,new_file,new_format2)
 end
+%% this is your first code,go ahead！boy
