@@ -1,5 +1,5 @@
 %% //////////////////////////////////////////////////
-clc;clear;
+clc;clear;close all
 old_format  = '*.jpg';%转换前的格式
 new_format  = '.tif'; %转换后的格式
 new_format2 =  new_format(2:end);
